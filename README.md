@@ -1,3 +1,3 @@
 # test
 janken
-こんにちは
+print("こんにちは")
