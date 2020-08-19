@@ -1,3 +1,3 @@
 # test
-janken
+janken\n
 print("こんにちは")
